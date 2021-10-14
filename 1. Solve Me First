@@ -1,0 +1,7 @@
+def solveMeFirst(a,b):
+    return a+b
+
+dight1 = int(input())
+dight2 = int(input())
+answer = solveMeFirst(dight1,dight2)
+print(answer)

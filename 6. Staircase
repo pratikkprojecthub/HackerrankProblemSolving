@@ -11,6 +11,7 @@ import sys
 #
 # The function accepts INTEGER n as parameter.
 #
+# code for staircase.
 def staircase(n):
     # Write your code here
     for a in range(1, n + 1):

@@ -5,8 +5,9 @@ import os
 import random
 import re
 import sys
-
-# Complete the miniMaxSum function below.
+##########################################
+# Complete the miniMaxSum function below.#
+##########################################
 def miniMaxSum(arr):
     arr.sort()
     keep = [None]*int(len(arr)-3)

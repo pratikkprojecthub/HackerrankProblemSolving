@@ -10,7 +10,8 @@ import sys
 #
 # The function is expected to return an INTEGER.
 # The function accepts 2D_INTEGER_ARRAY arr as parameter.
-#
+# Diagonal Difference code
+
 def diagonalDifference(arr):
     # Write your code here
     ans = 0
@@ -38,5 +39,8 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+    
+    
+    
     
     

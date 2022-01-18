@@ -24,3 +24,6 @@ if __name__ == '__main__':
     staircase(n)
     
 # Staircase problem
+
+################################################ 
+# Easy - Hackerrank - Python - 25/10/2021

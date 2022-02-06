@@ -6,12 +6,13 @@ import random
 import re
 import sys
 
-#
+###############################################
 # Complete the 'dayOfProgrammer' function below.
 #
 # The function is expected to return a STRING.
 # The function accepts INTEGER year as parameter.
-#
+###############################################
+# start of the code
 
 def dayOfProgrammer(year):
     # Write your code here
@@ -32,3 +33,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+# end of the code 

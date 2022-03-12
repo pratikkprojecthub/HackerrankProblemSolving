@@ -13,7 +13,7 @@ import sys
 # The function accepts INTEGER_ARRAY grades as parameter.
 #
 #########################################
-
+#########################################
 def gradingStudents(grades):
     # Write your code here
     for j in range(0,len(grades)):

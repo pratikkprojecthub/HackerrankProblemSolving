@@ -5,7 +5,7 @@ import os
 import random
 import re
 import sys
-
+##### Easy - Hackerrank - Python - 25/10/2021
 ################################################
 # Complete the 'staircase' function below.
 #

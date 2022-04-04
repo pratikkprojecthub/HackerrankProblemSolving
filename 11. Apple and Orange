@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#
+######################################## start of the code
 # Complete the 'countApplesAndOranges' function below.
 #
 # The function accepts following parameters:
